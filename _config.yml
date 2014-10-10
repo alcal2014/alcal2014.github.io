@@ -1,0 +1,8 @@
+# Site settings
+title: Your awesome title
+email: alain@alain.com
+description: testing jekyll @ makersquare course
+github_username:  alcal2014
+
+# Build settings
+markdown: kramdown
